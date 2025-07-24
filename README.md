@@ -19,9 +19,13 @@ This project aims to **decode the Paris 2024 Olympics** through a data analyst�
 ## 🧠 Key Insights You Can Discover
 
 🔸 **Which country is dominating the medal tally and in which sport?**
+
 🔸 **How does gender representation vary across different sports and countries?**
+
 🔸 **Which athletes are emerging as breakout stars in 2024?**
+
 🔸 **What’s the performance trajectory of a particular country across events?**
+
 🔸 **Are there underdog nations climbing up the ranks this year?**
 
 > Every visual answers a real-world question. Every slicer invites exploration. Every page tells a story.
