@@ -2,6 +2,8 @@
 
 > *"Behind every medal lies a story — of effort, nationality, rivalry, and human triumph. This dashboard unravels those stories, one visualization at a time."*
 
+<img width="1279" height="717" alt="Image" src="https://github.com/user-attachments/assets/e082357a-47ae-44bc-9a67-0ac594674615" />
+
 Welcome to the **Paris Olympics 2024 Power BI Dashboard** – a **data storytelling experience** that goes beyond charts and numbers. Built to **analyze, explore, and celebrate** the global spectacle that is the Olympics, this dashboard transforms raw Olympic data into interactive insights that are **engaging, intuitive, and impactful**.
 
 ---
