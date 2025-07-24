@@ -134,9 +134,8 @@ This project aims to **decode the Paris 2024 Olympics** through a data analyst�
 
 Love the project or want to collaborate?
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-* 📧 \[[your.email@example.com](mailto:your.email@example.com)]
-* 🌐 \[Portfolio / Website] *(if applicable)*
+* 💼 [LinkedIn](https://www.linkedin.com/in/umang-sinha-2b1853241)
+* 📧 [G-Mail](umang.2003@gmail.com)
 
 ---
 
